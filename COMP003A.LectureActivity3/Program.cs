@@ -154,7 +154,7 @@ namespace COMP003A.LectureActivity3
                         break;
                     default:
                         // this code block executes if none of the cases above is true
-                        Console.WriteLine("\tinputNumber is not 2/3/5/7.");
+                        Console.WriteLine("\tinputNumber is not 2/3/5/7");
                         break;
                 }
 
