@@ -146,7 +146,7 @@ namespace COMP003A.LectureActivity3
                         break;
                     case 5:
                         // this code block executes if the case condition is true
-                        Console.WriteLine("\tinputNumber is 5.");
+                        Console.WriteLine("\tinputNumber is 5");
                         break;
                     case 7:
                         // this code block executes if the case condition is true
